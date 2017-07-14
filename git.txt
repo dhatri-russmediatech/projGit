@@ -1,0 +1,13 @@
+github
+
+userid/passwd
+dhatri-russmediatech/change20
+
+git clone git@github.com:russmediatech/laendleauto.git laendleauto
+
+git commands to use
+
+git reset --hard to revert changes to your repository head
+
+
+
