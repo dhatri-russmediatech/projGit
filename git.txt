@@ -11,3 +11,8 @@ git reset --hard to revert changes to your repository head
 
 
 
+git add <filename> to add file to repo
+
+git commit -m "<comment>" <filename/dirpath>" to commit added/modified file
+
+git push origin <newBranch>
